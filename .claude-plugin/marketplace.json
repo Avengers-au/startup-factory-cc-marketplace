@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills-marketplace",
+  "owner": {
+    "name": "azhao"
+  },
+  "plugins": [
+    {
+      "name": "claude-skills",
+      "source": "azhao/claude-skills",
+      "description": "Centralized Claude Code skills library",
+      "version": "1.0.0"
+    }
+  ]
+}
