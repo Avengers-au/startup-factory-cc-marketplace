@@ -1,5 +1,5 @@
 {
-  "name": "claude-skills-marketplace",
+  "name": "startup-factory-marketplace",
   "owner": {
     "name": "azhao",
     "email": "andyzhaodeveloper@gmail.com"
@@ -10,10 +10,10 @@
   },
   "plugins": [
     {
-      "name": "claude-skills",
+      "name": "startup-factory",
       "source": {
         "source": "url",
-        "url": "https://github.com/Avengers-au/claude-skills.git"
+        "url": "https://github.com/Avengers-au/startup-factory.git"
       },
       "description": "Centralized Claude Code skills library",
       "version": "1.0.0",
