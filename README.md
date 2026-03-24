@@ -1,29 +1,25 @@
-# claude-skills-marketplace
+# Claude Skills Marketplace
 
-Registry of Claude Code skill plugins. Analogous to [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace).
+A curated collection of Claude Code skill plugins for the Avengers-au team.
 
-## Registered plugins
+## Plugins
 
-| Plugin | Description |
-|--------|-------------|
-| `claude-skills` | Centralized Claude Code skills library |
+**claude-skills** — shared skills library including structured learning document generation and more.
 
-## Usage
+## Getting Started
+
+Add the marketplace:
 
 ```
-claude plugin marketplace add Avengers-au/claude-skills-marketplace
-claude plugin install claude-skills@claude-skills-marketplace
+/plugin marketplace add Avengers-au/claude-skills-marketplace
 ```
 
-## Adding a plugin
+Then install a plugin:
 
-Add an entry to `.claude-plugin/marketplace.json`:
-
-```json
-{
-  "name": "your-plugin-name",
-  "source": "azhao/your-plugin-repo",
-  "description": "What it does",
-  "version": "1.0.0"
-}
 ```
+/plugin install claude-skills@claude-skills-marketplace
+```
+
+## Resources
+
+- [claude-skills](https://github.com/Avengers-au/claude-skills) — source for the skills plugin

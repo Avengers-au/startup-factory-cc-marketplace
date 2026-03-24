@@ -1,14 +1,23 @@
 {
   "name": "claude-skills-marketplace",
   "owner": {
-    "name": "azhao"
+    "name": "azhao",
+    "email": "andyzhaodeveloper@gmail.com"
+  },
+  "metadata": {
+    "description": "Shared Claude Code skills for the Avengers-au team",
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "claude-skills",
-      "source": "Avengers-au/claude-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Avengers-au/claude-skills.git"
+      },
       "description": "Centralized Claude Code skills library",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }
