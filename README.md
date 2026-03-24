@@ -1,25 +1,25 @@
-# Claude Skills Marketplace
+# Startup Factory Marketplace
 
 A curated collection of Claude Code skill plugins for the Avengers-au team.
 
 ## Plugins
 
-**claude-skills** — shared skills library including structured learning document generation and more.
+**startup-factory** — shared skills library including structured learning document generation and more.
 
 ## Getting Started
 
 Add the marketplace:
 
 ```
-/plugin marketplace add Avengers-au/claude-skills-marketplace
+/plugin marketplace add Avengers-au/startup-factory-marketplace
 ```
 
 Then install a plugin:
 
 ```
-/plugin install claude-skills@claude-skills-marketplace
+/plugin install startup-factory@startup-factory-marketplace
 ```
 
 ## Resources
 
-- [claude-skills](https://github.com/Avengers-au/claude-skills) — source for the skills plugin
+- [startup-factory](https://github.com/Avengers-au/startup-factory) — source for the skills plugin
