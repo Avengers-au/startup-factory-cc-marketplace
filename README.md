@@ -11,7 +11,7 @@ Registry of Claude Code skill plugins. Analogous to [obra/superpowers-marketplac
 ## Usage
 
 ```
-claude plugin marketplace add Avengers-au/claude-skills-marketplace
+claude plugin marketplace add azhao/claude-skills-marketplace
 claude plugin install claude-skills@claude-skills-marketplace
 ```
 
