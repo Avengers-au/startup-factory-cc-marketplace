@@ -1,12 +1,12 @@
 {
   "name": "claude-skills-marketplace",
   "owner": {
-    "name": "azhao"
+    "name": "Avengers-au"
   },
   "plugins": [
     {
       "name": "claude-skills",
-      "source": "azhao/claude-skills",
+      "source": "Avengers-au/claude-skills",
       "description": "Centralized Claude Code skills library",
       "version": "1.0.0"
     }
