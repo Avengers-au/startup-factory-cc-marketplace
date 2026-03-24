@@ -1,10 +1,10 @@
-# Startup Factory CC Marketplace
+# Startup Factory Claude Code Marketplace
 
-A curated collection of Claude Code skill plugins for the Avengers-au team.
+A curated collection of Claude Code plugins for the Avengers-au team.
 
 ## Plugins
 
-**startup-factory-cc-plugin** — shared skills library including structured learning document generation and more.
+**startup-factory-cc-plugin** — shared library including skills, hooks and others.
 
 ## Getting Started
 

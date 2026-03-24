@@ -5,7 +5,7 @@
     "email": "andyzhaodeveloper@gmail.com"
   },
   "metadata": {
-    "description": "Shared Claude Code skills for the Avengers-au team",
+    "description": "A curated collection of Claude Code plugins for the Avengers-au team",
     "version": "1.0.0"
   },
   "plugins": [
@@ -15,7 +15,7 @@
         "source": "url",
         "url": "https://github.com/Avengers-au/startup-factory-cc-plugin.git"
       },
-      "description": "Centralized Claude Code skills library",
+      "description": "Shared library including skills, hooks and others",
       "version": "1.0.0",
       "strict": true
     }
